@@ -1,0 +1,117 @@
+[
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null",
+            "displayValue": "+/- number"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    },
+    {
+        "title": "cardTitle",
+        "image": "url",
+        "action": {
+            "heal": "number/null",
+            "damage": "number/null"
+        }
+    }
+
+
+]
