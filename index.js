@@ -49,6 +49,15 @@ app.put('/users/:_id', async (req, res) => {
     }
 })
 
-app.delete('/:id', (req, res) => res.send('D-e-l-eted'))
+app.delete('/users/:_id', async (req, res) => {
+    try {
+        console.log(req.params._id)
+        await userData.findOneAndDelete(req.params._id)
+        res.send(stuff)
+    }
+    catch (err) {
+        console.log(err)
+    }
+})
 
 app.listen(port, () => console.log("i'm listening!"))
