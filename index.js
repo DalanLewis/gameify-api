@@ -3,7 +3,7 @@ const bodyParser = require('body-parser')
 const db = require('monk')('mongodb://gamemaster:abcxyz123@ds151076.mlab.com:51076/gameifydb')
 const userData = db.get('users')
 const app = express()
-const port = 8888
+const port = process.env.PORT || 8888
 
 
 
