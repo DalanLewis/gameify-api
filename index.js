@@ -51,7 +51,6 @@ app.put('/users/:_id', async (req, res) => {
 
 app.delete('/users/:_id', async (req, res) => {
     try {
-        console.log(req.params._id)
         await userData.findOneAndDelete(req.params._id)
         res.send(stuff)
     }
